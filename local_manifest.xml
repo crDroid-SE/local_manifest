@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com" name="github" />
+  <remote fetch="https://gitlab.com" name="gitlab" />
+
+  <project name="crDroid-SE/android_device_realme_RMX3371" path="device/realme/RMX3371" revision="15.0" remote="github" />
+  <project name="crDroid-SE/proprietary_vendor_realme_RMX3371" path="vendor/realme/RMX3371" revision="15.0" remote="github" />
+  <project name="ryukftw/kernel_realme_RMX3371" path="kernel/realme/sm8250" revision="phoeniX-AOSP" remote="github" />
+  <project name="crDroid/android_hardware_oplus" path="hardware/oplus" revision="15.0" remote="github" />
+  <project name="ryukftw/proprietary_vendor_oplus_camera" path="vendor/oplus/camera" revision="15.0" remote="gitlab" />
+
+</manifest>
